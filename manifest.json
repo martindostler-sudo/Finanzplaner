@@ -1,0 +1,18 @@
+{
+  "name": "Finanz- & Altersvorsorge-Planer Pro",
+  "short_name": "Finanzplaner",
+  "description": "Persönlicher Finanz- und Altersvorsorge-Planer (Vermögensaufbau, Entnahmeplanung, Steuer- und Rentenberechnung, Monte-Carlo-Stresstest).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#14532d",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
